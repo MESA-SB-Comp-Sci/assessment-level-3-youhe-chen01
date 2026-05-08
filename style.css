@@ -8,7 +8,7 @@
 
 h1{
     border: 10px solid red;
-    height:8vh;
+    height:10vh;
     width:50vw;
     background-color: pink;
     margin-left:15vw;
@@ -28,16 +28,34 @@ h1{
     margin-bottom:5vh;
 }
 
-.main_style2{
+#main_style2{
     background-color: yellow;
     border:15px solid pink;
-    width:25vw;
+    width:40vw;
     height:15vh;
-    padding-right: 25px;
-    padding-bottom: 15px;
-    margin-left: 25px;
-    margin-bottom: 25px;
+    padding-right: 25vw;
+    padding-bottom: 15vh;
+    margin-left: 5vw;
+    margin-bottom: 25vh;
 }
 
 
+#footer1{
+    color:blue;
+}
 
+#footer2{
+    color:green;
+}
+
+.footer34{
+    color:purple;
+}
+
+.font-size{
+    font-size:1rem;
+}
+
+#h1_size{
+    font-size:1.2rem;
+}
