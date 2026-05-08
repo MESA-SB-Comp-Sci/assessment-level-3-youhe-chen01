@@ -5,3 +5,39 @@
 }
 
 /* write all your rules below */
+
+h1{
+    border: 10px solid red;
+    height:8vh;
+    width:50vw;
+    background-color: pink;
+    margin-left:15vw;
+    margin-top: 8vh;
+    margin-right: 8vw;
+    margin-bottom: 8vh;
+}
+
+.main_style1{
+    background-color: aqua;
+    width: 100vw;
+    height: 30vh;
+    padding-top:20vh;
+    padding-bottom:20vh;
+    padding-right:75vw;
+    padding-left: 15vw;
+    margin-bottom:5vh;
+}
+
+.main_style2{
+    background-color: yellow;
+    border:15px solid pink;
+    width:25vw;
+    height:15vh;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+
+
